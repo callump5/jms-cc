@@ -1,0 +1,48 @@
+
+.section-landing {
+    height: 80vh;
+    background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.7)), url("/style/landing/pic2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+
+    & > .u-container {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+    }
+    
+    
+    &__text-box {
+        
+        & > .paragraph {
+        animation: move-in 1s  2.5s   backwards;
+        width: 85%;
+        font-size: 2rem;
+        }
+        
+        .buttons__button {
+            float: left; 
+        }
+        
+        .buttons__button--b1 {
+            animation: move-in 1s 3.6s backwards; 
+        }
+        
+        .buttons__button--b2 {
+            animation: move-in 1s 4.1s backwards;
+            background-color: #282828;
+        }
+    }
+}
+
+
+.section-about { 
+    .u-align-middle {
+        height: 30rem;
+    }
+}
+  

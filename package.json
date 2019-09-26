@@ -1,0 +1,19 @@
+{
+  "name": "jms-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass style/sass/main.scss style/css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "live-server": "^1.2.1",
+    "page.js": "^4.13.3"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
