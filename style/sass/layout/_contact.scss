@@ -36,6 +36,7 @@ input::placeholder {
 
 .section-testimonial {
     width: 45%;
+    height: 49.9rem;
     padding: 6rem 0 6rem 7rem;
 
     &__testimonial {
@@ -58,4 +59,11 @@ input::placeholder {
             font-size: 1.2rem;
         }
     }
+}
+
+
+.section-map__map {
+    width:55%;
+    height: 49.9rem;
+    border: none;
 }

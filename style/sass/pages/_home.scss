@@ -1,7 +1,7 @@
 
 .section-landing {
     height: 80vh;
-    background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.7)), url("/style/landing/pic2.png");
+    background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("/style/landing/pic1.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -19,7 +19,7 @@
     &__text-box {
         
         & > .paragraph {
-        animation: move-in 1s  2.5s   backwards;
+        animation: move-in 1s  4s   backwards;
         width: 85%;
         font-size: 2rem;
         }
@@ -29,11 +29,11 @@
         }
         
         .buttons__button--b1 {
-            animation: move-in 1s 3.6s backwards; 
+            animation: move-in 1s 4.5s backwards; 
         }
         
         .buttons__button--b2 {
-            animation: move-in 1s 4.1s backwards;
+            animation: move-in 1s 5s backwards;
             background-color: #282828;
         }
     }

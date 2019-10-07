@@ -184,4 +184,11 @@
     background-size: cover;
     background-position: right;
 
+    &--1 {
+        background-image: url("/style/images/bathroom.jpeg");
+    }
+    &--2 {
+        background-image: url("/style/images/moving.jpeg");
+    }
+
 }
