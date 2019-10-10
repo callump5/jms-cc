@@ -1,37 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://jmscommercialcleaning.co.uk/</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-10-06T14:39:57Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jmscommercialcleaning.co.uk/about</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-10-06T14:39:57Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jmscommercialcleaning.co.uk/commercial-cleaning</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-10-06T14:39:57Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jmscommercialcleaning.co.uk/end-of-tenancy</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-10-06T14:39:57Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jmscommercialcleaning.co.uk/contact</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-10-06T14:39:57Z</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url><loc>https://jmscommercialcleaning.co.uk/</loc><lastmod>2019-10-10</lastmod><changefreq>daily</changefreq><priority>1</priority></url>
+    <url><loc>https://jmscommercialcleaning.co.uk/about/</loc><lastmod>2019-10-10</lastmod><changefreq>daily</changefreq><priority>1</priority></url>
+    <url><loc>https://jmscommercialcleaning.co.uk/commercial-cleaning/</loc><lastmod>2019-10-10</lastmod><changefreq>daily</changefreq><priority>1</priority></url>
+    <url><loc>https://jmscommercialcleaning.co.uk/end-of-tenancy/</loc><lastmod>2019-10-10</lastmod><changefreq>daily</changefreq><priority>1</priority></url>
+    <url><loc>https://jmscommercialcleaning.co.uk/contact/</loc><lastmod>2019-10-10</lastmod><changefreq>daily</changefreq><priority>1</priority></url>
 </urlset>
+
